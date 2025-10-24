@@ -1,0 +1,1 @@
+{"text_col": "Unique id", "target_col": "CSAT Score", "numeric_cols": ["Item_price", "connected_handling_time", "text_len", "word_count", "num_exclaims", "num_questions"]}
